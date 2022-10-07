@@ -11,3 +11,14 @@
 	border:3px solid black;
 	overflow-y:scroll;
 }
+.mini-mini{
+		width:200px;
+		border: 2px solid green;
+		overflow:hidden;
+}
+.short-text{
+		white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+		
