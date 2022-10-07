@@ -21,9 +21,7 @@
   overflow: hidden;
   text-overflow: ellipsis;
 }
-.box{
-	height:100px;
-	width:100px;
+
 	border:2px solid indigo	
 }
 #box-1{
@@ -40,3 +38,43 @@
 #box-4{
 	background-color:red;
 }
+
+
+
+
+
+.prntdiv{
+	display:flex;
+	cursor:pointer;
+}
+	
+.box{
+	height:300px;
+	width:300px;
+	padding:30px;
+	background-color:yellow;
+	margin:10px;
+}
+.box{
+	height:300px;
+	width:300px;
+	padding:30px;
+	background-color:yellow;
+	margin:10px;
+}
+.box{
+	height:300px;
+	width:300px;
+	padding:30px;
+	background-color:yellow;
+	margin:10px;
+	}
+.box{
+	height:300px;
+	width:300px;
+	padding:30px;
+	background-color:yellow;
+	margin:10px;
+}
+
+	
